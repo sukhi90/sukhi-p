@@ -8,13 +8,9 @@
     <artifactId>docker-it</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <dict>
-        <key>PATH</key>
-        <string>/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
-    </dict>
-<build>
+    <build>
     <finalName >Sukh-project</finalName>
-</build>
+    </build>
 
 
 </project>
